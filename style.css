@@ -1,0 +1,17 @@
+body {
+    background-color: #cdeccd; 
+    color: #006400; 
+    font-family: 'Lexend', sans-serif; 
+    text-align: center; 
+    margin: 0; 
+    padding: 0; 
+}
+
+header {
+    background-color: #90ee90; 
+    padding: 10px; 
+}
+
+section {
+    margin: 20px; 
+}
